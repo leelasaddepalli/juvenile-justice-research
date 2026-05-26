@@ -28,7 +28,7 @@ The data supports both hypotheses: higher political liberalism is associated wit
 ### Limitations
 The study is limited to a single year and three states. Demographic differences, recidivism rates, and absolute youth population sizes were not fully controlled for. The 0–1 scoring scale simplifies complex policy differences. These findings suggest correlation, not causation, and call for longitudinal and multi-state replication.
 
-📄 [Different States, Different Fates (PDF)](./Different_States_Different_Fates.pdf)
+📄 [Different States, Different Fates (PDF)](https://github.com/leelasaddepalli/juvenile-justice-research/blob/main/Different%20States%2C%20Different%20Fates.pdf)
 
 ---
 
@@ -50,7 +50,7 @@ Traces the structural origins of juvenile criminalization through Jonathan Eastw
 **Part Three: Advocating for restorative solutions**
 Proposes three concrete, evidence-backed interventions for Rockbridge County Public Schools: Calm Corners (classroom-based emotional regulation spaces as an alternative to suspension), Restorative Circles (pre-charge community accountability processes), and Student Advocates (trained volunteers to represent students in disciplinary hearings, funded through Communities in Schools grants). Engages contractualist and utilitarian objections to each proposal.
 
-📄 [Stolen Childhoods (PDF)](./Stolen_Childhoods_Capstone_Paper.pdf)
+📄 [Stolen Childhoods (PDF)](https://github.com/leelasaddepalli/juvenile-justice-research/blob/main/Stolen%20Childhoods%20-%20Capstone%20Paper.pdf)
 
 ---
 
